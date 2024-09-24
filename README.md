@@ -18,7 +18,7 @@ Vertices are ordered in the same way for all output files.
 Please also refer to the formats of our used networks in the paper.
 
 2. The software "compute NDC index.exe" produces the D-spectra of all vertices, one file for a value of the order t (-maxdegree<= t <=0),
-and also produces the DC_t(v) values and NDC_t(v) values (see the paper for definition and -25 <= t <=0) of all vertices,
+and also produces the DC_t(v) values and NDC_t(v) values (see the paper for definition) of all vertices,
 one file for a value of t. Vertices are ordered in the same way for all output files.
 The input of this software is the file name of the interested network "xxx_output.txt".
 
